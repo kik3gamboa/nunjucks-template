@@ -1,0 +1,22 @@
+{
+  "name": "nunjucks-template",
+  "version": "1.0.0",
+  "description": "nunjucks for verificable credentials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kik3gamboa/nunjucks-template.git"
+  },
+  "author": "kik3gamboa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kik3gamboa/nunjucks-template/issues"
+  },
+  "homepage": "https://github.com/kik3gamboa/nunjucks-template#readme",
+  "dependencies": {
+    "nunjucks": "^3.2.2"
+  }
+}
