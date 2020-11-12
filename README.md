@@ -1,2 +1,4 @@
 # nunjucks-template
-Flave for verificable credentials
+Nunjucks for verificable credentials
+
+Just run index.js to get a credentials formated by template into index
